@@ -1,0 +1,18 @@
+Package: TestingRationalBubbles
+Type: Package
+Title: TestingRationalBubbles
+Version: 0.1.0
+Author: nicoroever
+Maintainer: Nicolas Roever <nicoroever@gmail.com>
+Description: Implementation of Homm, Breitung 2012
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+  dynlm, 
+  zoo,
+  tseries, 
+  tidyverse, 
+  ggplot2, 
+  exuber
+  
